@@ -1,0 +1,46 @@
+ /*----------------------- Theme Color File -------------------*/
+.theme-main-header .top-header p:hover a,.feature-work .single-feature .learn-more,.video-presentation .video-player .play-button,
+.video-presentation .counter-text-wrapper li .number,.video-presentation .info-text-wrapper .help a,.service-style-one .main-container .single-service .srvc-name span,
+.service-style-one .main-container .single-service:hover .srvc-name h6 a,.service-style-one .main-container .single-service .icon,.testimonial-section-one .inner-wrapper .main-bg .icon,
+.testimonial-section-one .inner-wrapper .main-bg span,.our-blog .single-blog-meta .text .post-info li:hover a,.our-blog .single-blog-meta:hover .text .title a,.theme-footer-one .top-footer ul li .icon,
+.theme-footer-one .top-footer ul li a:hover,.main-footer-widget .list-widget ul li a:hover,.main-footer-widget .comment-widget ul li p span,.theme-main-header .middle-header .our-address li p span,
+.theme-main-header .middle-header .our-address li .icon,.theme-header-two #mega-menu-holder>ul> li.active > .sub-toggle,.theme-header-two #mega-menu-holder>ul> li:hover > .sub-toggle,
+.theme-header-two #mega-menu-holder>ul> li.active > a,.theme-header-two #mega-menu-holder>ul> li:hover > a,.about-compnay .about-feature .single-feature:hover .title a,
+.service-style-two .single-block .overlay .play-button,.service-style-two .single-block .text .srvc-name span,.service-style-two .single-block .text .icon,.main-footer-widget .twitter-widget .date i,
+.service-style-two .single-block:hover .text .srvc-name h5 a,.latest-project.bg-color .view-all-project.text-center .theme-button-one:hover,.testimonial-section-two .overlay .play-button,
+.theme-sidebar .sidebar-categories ul li a:hover,.theme-sidebar .sidebar-latest-news .single-latest-news:hover .news-title,.theme-sidebar .sidebar-latest-news .single-latest-news  ul li span,
+.theme-sidebar .sidebar-text ul li a span,.news-classic .single-classic-news .post-tag-meta li:hover a,.news-classic .single-classic-news:hover .title h3 a,
+.news-classic .classic-news-bg .post-tag-meta li:hover a,.news-classic .classic-news-bg:hover .title a,.news-classic .classic-news-bg:before,.news-details .single-classic-news .list-text li:before,
+.accordion-two .panel-group .panel-heading a:before,.accordion-two .panel-group .panel-heading a:after,.news-details .comment-section .single-comment .comment .social-icon li a:hover,
+.contact-us-page .address ul li i  {
+  color:#ee3939;
+}
+.scroll-top,.switcher .switch-btn button,.switcher .switch-menu h5.title,#mega-menu-holder>ul> li> a:before,#mega-menu-holder ul.dropdown li a:before,body .theme-button-one,
+.feature-work .single-feature .title:before,.theme-title-one .title:before,.video-presentation .video-player .play-button:hover,.accordion-one .panel-group .panel-heading a:before,
+.our-blog .single-blog-meta .img-box .date,.main-footer-widget .subscribe-widget form button,.main-footer-widget .social-icon li a:hover,.theme-main-header .top-header.bg-color,
+.theme-header-two .social-icon li a:hover,.feature-work-two .single-feature.bg-color,.service-style-two .view-all-service .theme-button-one:hover,.why-choose-us .single-block .tag,
+.appointment-section .monthly-header,.appointment-section .monthly-day-pick.monthly-today,.appointment-section .monthly-day:hover,.appointment-section .monthly-day:focus,
+.theme-footer-two .bottom-footer,.theme-pagination ul li a:hover,.theme-pagination ul li.active a,.project-details .list-text li:before,.project-details .project-tab .nav-tabs .nav-item.show .nav-link,
+.project-details .project-tab .nav-tabs .nav-link.active,.theme-sidebar .sidebar-author .social-icon li a:hover,.theme-sidebar .sidebar-tags ul li a:hover,.news-classic .single-classic-news .title .date,
+.news-details .share-option .social-icon li a:hover,.theme-header-two .collapse-button .icon-bar  {
+  background: #ee3939;
+}
+.video-presentation .video-player .play-button:hover:before,.project-details .project-tab .nav-tabs .nav-item.show .nav-link,
+.project-details .project-tab .nav-tabs .nav-link.active,.theme-sidebar .sidebar-tags ul li a:hover {
+  border-style: solid;
+  border-color:#ee3939;
+}
+.news-classic .single-classic-news .post-tag-meta li,.news-classic .classic-news-bg .post-tag-meta li {border-right-color:#ee3939; }
+.about-compnay .image-wrapper .image-box .overlay {
+	background: rgba(238,57,57,0.8);
+}
+.latest-project .single-block .overlay,.theme-counter-section .overlay,.our-portfolio .single-block .overlay,
+.theme-sidebar .sidebar-latest-news .single-latest-news .img-box .overlay {
+	background: rgba(238,57,57,0.9);
+}
+.partner-section-one .overlay,.service-style-two .single-block .overlay {
+	background: rgba(238,57,57,0.7);
+}
+.main-footer-widget .subscribe-widget form input:focus {
+  box-shadow: 0px 0px 20.52px 0.48px rgba(238,57,57, 0.05);
+}
